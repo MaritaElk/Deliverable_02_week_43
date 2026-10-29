@@ -1,0 +1,24 @@
+*   93a88f8 - MaritaElk, 10 minutes ago : Merge pull request #3 from MaritaElk/HovedBranch_Deliverable_02
+|\  
+| *   513f08a - MaritaElk, 11 minutes ago : Merge pull request #2 from MaritaElk/Marita
+| |\  
+| | * 1bff9c0 - MaritaElk, 22 minutes ago : oppdatering kommentarer og doc string. plus req
+| | * 16b23c6 - MaritaElk, 2 days ago : markdowns og tests
+| | * 836f8f7 - MaritaElk, 2 days ago : Update limitasions in use of currency
+| | * 22894e5 - MaritaElk, 2 days ago : Oppdatert med limitations
+| | * 75baf1c - MaritaElk, 2 days ago : Oppdatering av requirements.
+| | * 8b5583d - MaritaElk, 2 days ago : Oppdatert testing
+| | * f5e9470 - MaritaElk, 2 days ago : Task 3, 4 og 5. Test av funksjoner. some markdowns
+| * | fb821b4 - MaritaElk, 4 days ago : Merge pull request #1 from MaritaElk/Marita
+| |\| 
+| | * e3bf5cd - MaritaElk, 4 days ago : Task 2, plus a funksjon to find data_file in parentfolders. this to be able to work in diffrent different folder structure. (as long as the files og folder are in the same perentfolder as the prosjekt.)
+| |/  
+| * c0760d8 - MaritaElk, 7 days ago : Task_1: file reader function and log parser function
+| * eee87d3 - MaritaElk, 7 days ago : blank jupyter og opprettet requirments
+|/  
+| * c77f47a - Linda Qviller Halvorsen, 3 days ago : task3 and task 4
+| * 14f4cc9 - Linda Qviller Halvorsen, 3 days ago : changes task3
+| * a2ceaa1 - Linda Qviller Halvorsen, 3 days ago : Task3
+|/  
+* 03f6c82 - MaritaElk, 7 days ago : Test
+* 2ce4dfd - MaritaElk, 7 days ago : Initial commit
